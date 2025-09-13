@@ -1,0 +1,62 @@
+[
+  {
+    "id": "codes-frequency",
+    "question": "How often do new Garden Tower Defense codes drop?",
+    "answer": "Codes typically release during major updates, events, and community milestones. We monitor all official channels 24/7 to bring you the freshest codes instantly! New codes usually appear 1-2 times per week.",
+    "category": "Codes"
+  },
+  {
+    "id": "best-starter-strategy",
+    "question": "What's the best starter strategy for new players?",
+    "answer": "Focus on economy units like Money Tree early on, then transition to balanced attackers like Potato and Strawberry. Save seeds for META units once you've established a solid foundation. Always prioritize economy in the first few waves!",
+    "category": "Strategy"
+  },
+  {
+    "id": "expired-codes-reactivation",
+    "question": "Are expired codes ever reactivated?",
+    "answer": "Occasionally! Developers sometimes bring back popular codes during special events. That's why we keep our expired codes list - you never know when they might work again!",
+    "category": "Codes"
+  },
+  {
+    "id": "redeem-codes-how",
+    "question": "How do I redeem Garden Tower Defense codes?",
+    "answer": "Launch GTD → Click Shop (F key) → Select 'Codes' tab → Paste your code → Click 'Redeem'! Make sure to copy codes exactly as shown, including any capital letters.",
+    "category": "Codes"
+  },
+  {
+    "id": "best-meta-units",
+    "question": "Which units are currently META?",
+    "answer": "Golem dominates the META with massive damage and range. Venus Flytrap and Ghost Pepper are S-tier choices for consistent performance. Always check our tier list for the latest META analysis!",
+    "category": "Units"
+  },
+  {
+    "id": "unit-upgrade-priority",
+    "question": "Which units should I upgrade first?",
+    "answer": "Prioritize your economy units (Money Tree) first, then your main DPS units. Golem and Venus Flytrap get the biggest benefit from upgrades. Support units like Strawberry can wait until mid-game.",
+    "category": "Strategy"
+  },
+  {
+    "id": "seeds-vs-gems",
+    "question": "Should I spend seeds or gems first?",
+    "answer": "Seeds are your primary currency - spend them freely on units and upgrades. Gems are premium currency, save them for exclusive units, VIP benefits, or when you really need that extra boost!",
+    "category": "Economy"
+  },
+  {
+    "id": "placement-strategy",
+    "question": "What's the optimal unit placement strategy?",
+    "answer": "Place tanks (like Golem) in central positions for maximum coverage. Put DPS units behind tanks for protection. Economy units should be in safe corners. Always consider range overlaps!",
+    "category": "Strategy"
+  },
+  {
+    "id": "vip-worth-it",
+    "question": "Is VIP membership worth it?",
+    "answer": "VIP provides significant benefits: faster seed generation, exclusive units, and bonus rewards. If you're playing regularly, it's definitely worth the investment for serious defenders!",
+    "category": "VIP"
+  },
+  {
+    "id": "late-game-strategy",
+    "question": "How do I survive late-game waves?",
+    "answer": "Focus on high-tier units with area damage. Golem becomes essential. Use support units like Strawberry to boost your main DPS. Don't forget to upgrade your units - late game is all about maximizing damage output!",
+    "category": "Strategy"
+  }
+]

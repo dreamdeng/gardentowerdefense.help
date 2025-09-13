@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "code": "FRESHSTART",
+    "reward": "300 Premium Seeds",
+    "status": "✨ NEW",
+    "description": "Boost your garden with premium seeds",
+    "category": "Seeds",
+    "active": true,
+    "dateAdded": "2025-01-15",
+    "expiry": null
+  },
+  {
+    "id": "2", 
+    "code": "BOTANICALPOWER",
+    "reward": "500 Rare Seeds + 150 Gems",
+    "status": "🔥 HOT",
+    "description": "Massive seed boost for new defenders",
+    "category": "Combo",
+    "active": true,
+    "dateAdded": "2025-01-14",
+    "expiry": null
+  },
+  {
+    "id": "3",
+    "code": "PLANTDOMINANCE",
+    "reward": "250 Exclusive Seeds",
+    "status": "✅ VERIFIED",
+    "description": "Unlock powerful plant varieties",
+    "category": "Seeds",
+    "active": true,
+    "dateAdded": "2025-01-12",
+    "expiry": null
+  },
+  {
+    "id": "4",
+    "code": "TOWERMASTER",
+    "reward": "400 Premium Seeds + VIP Trial",
+    "status": "⚡ LIMITED",
+    "description": "Master-tier rewards for experienced players",
+    "category": "Premium",
+    "active": true,
+    "dateAdded": "2025-01-10",
+    "expiry": "2025-01-25"
+  },
+  {
+    "id": "5",
+    "code": "GARDENHERO",
+    "reward": "200 Seeds + Special Unit",
+    "status": "⚡ LIMITED",
+    "description": "Hero's bounty with exclusive unit unlock",
+    "category": "Special",
+    "active": true,
+    "dateAdded": "2025-01-08",
+    "expiry": "2025-01-22"
+  },
+  {
+    "id": "6",
+    "code": "OLDGROWTH",
+    "reward": "150 Basic Seeds",
+    "status": "❌ EXPIRED",
+    "description": "Basic starter package",
+    "category": "Seeds",
+    "active": false,
+    "dateAdded": "2024-12-28",
+    "expiry": "2025-01-05"
+  }
+]
